@@ -1,3 +1,4 @@
+/*eslint-env node */
 /**
  * Created by robson on 26/04/2016.
  */
